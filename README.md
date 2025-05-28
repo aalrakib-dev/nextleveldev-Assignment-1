@@ -13,14 +13,10 @@ Here you did not say "let count: number." Since you assigned 5 to count, TypeScr
 
 The Importance of Type Inference
 
-1. Less Code, More Safety
-This withheld the developer from explicitly writing types, which made the code clean and concise — all type-safe.
+1. This withheld the developer from explicitly writing types, which made the code clean and concise — all type-safe.
 
-2. Good Developer Experience
-The editor will provide better autocomplete, refactoring, and error checking because TypeScript knows the types behind your code.
+2. The editor will provide better autocomplete, refactoring, and error checking because TypeScript knows the types behind your code.
 
-3. Early Error Detection
-Detects type-related errors early on, even without having explicit types, preventing the occurrence of bugs.
+3. Detects type-related errors early on, even without having explicit types, preventing the occurrence of bugs.
 
-4. Smooth Learning Curve
-Beginners can write code in JavaScript style but are gradually exposed to the benefits of static typing.
+4. Beginners can write code in JavaScript style but are gradually exposed to the benefits of static typing.
