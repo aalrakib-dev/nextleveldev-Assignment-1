@@ -1,7 +1,7 @@
 # nextleveldev-Assignment-1
 
 
-What is Type Inference in TypeScript? 
+What is Type Inference in TypeScript?
 
 This is describing the way in which TypeScript can take a variable, something that is there to be another: a function returns something or an expression throws up an error if used with incompatible types; if you do not explicitly declare it, it does not type it.
 
@@ -20,3 +20,5 @@ The Importance of Type Inference
 3. Detects type-related errors early on, even without having explicit types, preventing the occurrence of bugs.
 
 4. Beginners can write code in JavaScript style but are gradually exposed to the benefits of static typing.
+
+# nextleveldev-Assignment-1
